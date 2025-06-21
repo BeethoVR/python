@@ -1,2 +1,2 @@
-# python
-Computer programs that I did to practice python development
+# python & deeplearning
+Computer programs that I did on Kaggle to practice python development and DeepLearning Learning...
